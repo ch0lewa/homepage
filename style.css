@@ -1,5 +1,5 @@
 h1 {
-    color: crimson;
+    color: rgb(23, 58, 255);
 }
 
 h2 {
@@ -7,5 +7,30 @@ h2 {
 }
 
 section {
-    background: lightgreen;
+    background: rgb(137, 167, 202);
+}
+
+.text {
+    color: rgb(116, 100, 241);
+}
+
+#edvin {
+    background: rgb(87, 119, 168);
+}
+
+.omar {
+    color: rgb(31, 31, 129);
+    font-size: xx-large;
+}
+
+p {
+    color: rgb(68, 200, 218);
+}
+
+a {
+    color: rgb(196, 49, 201);
+}
+
+section a {
+    background: pink;
 }
