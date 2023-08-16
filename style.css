@@ -34,3 +34,7 @@ a {
 section a {
     background: pink;
 }
+
+.about {
+    background: rgb(250, 255, 105);
+}
